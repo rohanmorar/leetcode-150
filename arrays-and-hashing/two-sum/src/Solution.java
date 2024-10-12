@@ -1,9 +1,5 @@
-import edu.princeton.cs.algs4.In;
-
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Set;
 
 public class Solution {
     public static ArrayList<Integer> twoSum(int[] nums, int target) {
